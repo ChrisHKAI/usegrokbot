@@ -197723,5 +197723,40 @@
     "xPostUrl": "https://x.com/LouisFerreira/status/2108820821263241430",
     "sourceUrl": "https://x.com/LouisFerreira/status/2108820821263241430",
     "sourceLabel": "Louis on X"
+  },
+  {
+    "slug": "littlebookbots-inbox-help-inbox-buried-in-newsletters-and-promo",
+    "title": "Inbox help Inbox buried in newsletters and promos?",
+    "headline": "Inbox help Inbox buried in newsletters and promos?",
+    "body": "Inbox help\nInbox buried in newsletters and promos? Grok Bot can sort new mail each morning and point out what needs you. Nothing gets sent without your OK. Free walkthrough: https://littlebookofbots.com/organizing-your-stuff/email-triage/ @bot #Grok #AI",
+    "whatTheyDid": "Inbox help Inbox buried in newsletters and promos?",
+    "howItWorks": "UseGrokBot ingested this public X post. We keep the original permalink and did not re-run this Bot.",
+    "whyUseful": "A public example of someone handing work to Grok Bot, kept here with attribution.",
+    "whyItMatters": "The original X post is the source. This card is a short curator summary, not a reprint of the thread.",
+    "whoShouldTry": [
+      "People exploring personal automation",
+      "Grok Bot users"
+    ],
+    "usefulFor": "People exploring personal automation / Grok Bot users",
+    "output": "Inbox help Inbox buried in newsletters and promos?",
+    "category": "personal",
+    "outcomes": [
+      "automate-work",
+      "save-time"
+    ],
+    "apps": [
+      "gmail",
+      "browser",
+      "x"
+    ],
+    "difficulty": "medium",
+    "schedule": "daily",
+    "source": "community",
+    "authorName": "Little Book of Bots",
+    "handle": "littlebookbots",
+    "publishedAt": "2026-11-10",
+    "xPostUrl": "https://x.com/littlebookbots/status/2120283711271063604",
+    "sourceUrl": "https://x.com/littlebookbots/status/2120283711271063604",
+    "sourceLabel": "Little Book of Bots on X"
   }
 ]
